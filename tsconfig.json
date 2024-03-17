@@ -1,0 +1,7 @@
+// tsconfig.json
+{
+    "compilerOptions": {
+      "target": "es6",
+      "outDir": "./compiled"
+    }
+  }

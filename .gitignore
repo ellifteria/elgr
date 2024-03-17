@@ -1,0 +1,10 @@
+.vscode
+.DS_Store
+
+.markdownlint.*
+
+## VSCode files:
+*.vscode
+
+## macOS files:
+*.DS_Store
