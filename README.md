@@ -1,4 +1,4 @@
-# ELGR: ELli's simple GRaphics engine
+# ELGR: ELli's simple GRaphics
 
 ---
 
